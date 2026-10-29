@@ -1,0 +1,80 @@
+{
+  "seed": 202610160601,
+  "cells": [
+    {
+      "mode": "X1X7_joint",
+      "p": 0.003,
+      "shots": 5614
+    },
+    {
+      "mode": "X1Z7_joint",
+      "p": 0.003,
+      "shots": 5614
+    },
+    {
+      "mode": "X1_X7_concurrent",
+      "p": 0.003,
+      "shots": 5614
+    },
+    {
+      "mode": "X1X7_joint",
+      "p": 0.0035,
+      "shots": 1379
+    },
+    {
+      "mode": "X1Z7_joint",
+      "p": 0.0035,
+      "shots": 1379
+    },
+    {
+      "mode": "X1_X7_concurrent",
+      "p": 0.0035,
+      "shots": 1379
+    },
+    {
+      "mode": "X1X7_joint",
+      "p": 0.004,
+      "shots": 96
+    },
+    {
+      "mode": "X1Z7_joint",
+      "p": 0.004,
+      "shots": 96
+    },
+    {
+      "mode": "X1_X7_concurrent",
+      "p": 0.004,
+      "shots": 96
+    },
+    {
+      "mode": "X1X7_joint",
+      "p": 0.0045,
+      "shots": 51
+    },
+    {
+      "mode": "X1Z7_joint",
+      "p": 0.0045,
+      "shots": 51
+    },
+    {
+      "mode": "X1_X7_concurrent",
+      "p": 0.0045,
+      "shots": 51
+    },
+    {
+      "mode": "X1X7_joint",
+      "p": 0.005,
+      "shots": 35
+    },
+    {
+      "mode": "X1Z7_joint",
+      "p": 0.005,
+      "shots": 35
+    },
+    {
+      "mode": "X1_X7_concurrent",
+      "p": 0.005,
+      "shots": 35
+    }
+  ]
+}
